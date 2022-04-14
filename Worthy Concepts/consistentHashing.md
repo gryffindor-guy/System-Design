@@ -1,4 +1,4 @@
-# [Consistent Hashing] (https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY)
+# Consistent Hashing ([Check out Consistent Hashing](https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY 'Check out Consistent Hashing'))
 
 ### Background
 
